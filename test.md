@@ -31,6 +31,17 @@ I like to program and listen to music during my free time, in addition, I am tak
 
 <br>
 
+<table>
+  <tr align="center">
+    <th><img src="https://metrics.lecoq.io/Guiki18"></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiki18"></th>
+
+  </tr>
+</table>
+
+
+<br>
+
 <h3 align="left">Programming Languages</h3>
 <table>
   <tr align="center">
@@ -144,11 +155,11 @@ I like to program and listen to music during my free time, in addition, I am tak
   </tr>
 </table>
 
+<br><br><br>
+
 <h3 align="left">Github Rewards</h3>
 <table>
   <tr align="center">
     <th><img src="https://github-profile-trophy.vercel.app/?username=guiki18"></th>
   </tr>
-
-  
 </table>
