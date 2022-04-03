@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <a href=""><img src="https://github.com/Guiki18/Guiki18/blob/main/images/wallpaper.jpg?raw=true" alt="Yuichiro"></a>
+    <a href=""><img src="https://github.com/Guiki18/Guiki18/blob/main/images/wallpaper.jpg?raw=true" alt="Wallpaper"></a>
   <br>
   <br>
     Hi 👋, I'm Guiki 
@@ -30,12 +30,8 @@ I like to program and listen to music during my free time, in addition, I am tak
 - ⚡ Fun fact **I'm a FoX in the BoX**
 
 <h3 align="left">Programming Languages</h3>
-<table>
-  <tr>
-    <th>C<th>
-  </tr>
+| C | JavaScript | PHP | Python |
+|---|---|---|---|
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  |
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  |
 
-  <tr>
-    <td><img scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt=""><td>
-  </tr>
-</table>
