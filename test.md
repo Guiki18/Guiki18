@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <a href=""><img src="https://github.com/Guiki18/Guiki18/blob/main/images/wallpaper.jpg?raw=true" alt="Wallpaper"></a>
+    <img src="https://github.com/Guiki18/Guiki18/blob/main/images/wallpaper.jpg?raw=true" alt="Wallpaper">
   <br>
   <br>
     Hi 👋, I'm Guiki 
@@ -33,18 +33,17 @@ I like to program and listen to music during my free time, in addition, I am tak
 
 <h3 align="left">Programming Languages</h3>
 <table>
-  <tr align="center">
+  <tr>
     <th>C<th>
     <th>JavaScript<th>
     <th>PHP<th>
     <th>Python<th>
   </tr>
-
   <tr>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"></a> <td>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"></a> <td>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"></a> <td>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"></a> <td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"><td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"> <td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"> <td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"> <td>
   </tr>
 </table>
 
@@ -58,10 +57,10 @@ I like to program and listen to music during my free time, in addition, I am tak
   </tr>
 
   <tr>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="BootStrap"></a> <td>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"></a> <td>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"></a> <td>
-    <td> <a href=""><img src="https://iconarchive.com/download/i97541/sicons/basic-round-social/jquery.ico" width="40" height="40" alt="JQuery"></a> <td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="BootStrap"> <td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"> <td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"> <td>
+    <td> <img src="https://iconarchive.com/download/i97541/sicons/basic-round-social/jquery.ico" width="40" height="40" alt="JQuery"> <td>
   </tr>
 </table>
 
@@ -74,8 +73,8 @@ I like to program and listen to music during my free time, in addition, I am tak
   </tr>
 
   <tr>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"></a> <td>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="NodeJS"></a> <td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"> <td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="NodeJS"> <td>
   </tr>
 </table>
 
@@ -88,9 +87,9 @@ I like to program and listen to music during my free time, in addition, I am tak
   </tr>
 
   <tr>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"></a> <td>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="NodeJS"></a> <td>
-    <td> <a href=""><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"></a> <td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"> <td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="NodeJS"> <td>
+    <td> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"> <td>
   </tr>
 </table>
 
@@ -101,7 +100,7 @@ I like to program and listen to music during my free time, in addition, I am tak
   </tr>
 
   <tr>
-    <td> <a href=""><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"></a> <td>
+    <td> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"> <td>
   </tr>
 </table>
 
@@ -112,7 +111,7 @@ I like to program and listen to music during my free time, in addition, I am tak
   </tr>
 
   <tr>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40" alt="Electron"></a> <td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40" alt="Electron"> <td>
   </tr>
 </table>
 
@@ -125,9 +124,9 @@ I like to program and listen to music during my free time, in addition, I am tak
   </tr>
 
   <tr>
-    <td> <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" width="40" height="40" alt="VSCODE"></a> <td>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="AdobePS"></a> <td>
-    <td> <a href=""><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" alt="Blender"></a> <td>
+    <td> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" width="40" height="40" alt="VSCODE"> <td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="AdobePS"> <td>
+    <td> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" alt="Blender"> <td>
   </tr>
 </table>
 
@@ -140,8 +139,8 @@ I like to program and listen to music during my free time, in addition, I am tak
   </tr>
 
   <tr>
-    <td> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"></a> <td>
-    <td> <a href=""><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"></a> <td>
-    <td> <a href=""><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"></a> <td>
+    <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"> <td>
+    <td> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"> <td>
+    <td> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"> <td>
   </tr>
 </table>
