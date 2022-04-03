@@ -56,7 +56,7 @@ I like to program and listen to music during my free time, in addition, I am tak
     <th>JQuery</th>
   </tr>
 
-  <tr>
+  <tr align="center">
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="BootStrap"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"></td>
@@ -71,7 +71,7 @@ I like to program and listen to music during my free time, in addition, I am tak
     <th>NGINX</th>
   </tr>
 
-  <tr>
+  <tr align="center">
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="NodeJS"></td>
   </tr>
@@ -85,7 +85,7 @@ I like to program and listen to music during my free time, in addition, I am tak
     <th>SQLite</th>
   </tr>
 
-  <tr>
+  <tr align="center">
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="NodeJS"></td>
     <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"></td>
@@ -98,7 +98,7 @@ I like to program and listen to music during my free time, in addition, I am tak
     <th>Linux Bash</th>
   </tr>
 
-  <tr>
+  <tr align="center">
     <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"></td>
   </tr>
 </table>
@@ -109,7 +109,7 @@ I like to program and listen to music during my free time, in addition, I am tak
     <th>Electron</th>
   </tr>
 
-  <tr>
+  <tr align="center">
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40" alt="Electron"></td>
   </tr>
 </table>
@@ -122,7 +122,7 @@ I like to program and listen to music during my free time, in addition, I am tak
     <th>Blender</th>
   </tr>
 
-  <tr>
+  <tr align="center">
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" width="40" height="40" alt="VSCODE"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="AdobePS"></td>
     <td><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" alt="Blender"></td>
@@ -137,7 +137,7 @@ I like to program and listen to music during my free time, in addition, I am tak
     <th>Arduino</th>
   </tr>
 
-  <tr>
+  <tr align="center">
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"></td>
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"></td>
