@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
     <img src="https://github.com/Guiki18/Guiki18/blob/main/images/wallpaper.jpg?raw=true" alt="Wallpaper">
-  <br>
+    <p align="center"><img src="https://gpvc.arturio.dev/guiki18"></p>
   <br>
     Hi 👋, I'm Guiki 
   <br>
@@ -33,13 +33,13 @@ I like to program and listen to music during my free time, in addition, I am tak
 
 <h3 align="left">Programming Languages</h3>
 <table>
-  <tr>
+  <tr align="center">
     <th>C</th>
     <th>JavaScript</th>
     <th>PHP</th>
     <th>Python</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"></td>
@@ -142,4 +142,13 @@ I like to program and listen to music during my free time, in addition, I am tak
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino"></td>
   </tr>
+</table>
+
+<h3 align="left">Github Rewards</h3>
+<table>
+  <tr align="center">
+    <th><img src="https://github-profile-trophy.vercel.app/?username=guiki18"></th>
+  </tr>
+
+  
 </table>
