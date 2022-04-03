@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://images.wallpapersden.com/image/download/aurora-borealis-near-sea_bGplammUmZqaraWkpJRmbmdlrWZlbWU.jpg" alt="Yuichiro"></a>
+  <a href=""><img src="https://github.com/Guiki18/Guiki18/blob/main/images/wallpaper.jpg?raw=true" alt="Yuichiro"></a>
   <br>
   Hi 👋, I'm Guiki 
   <br>
