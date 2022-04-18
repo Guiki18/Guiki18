@@ -48,13 +48,11 @@ I like to program and listen to music during my free time, in addition, I am tak
     <th>C</th>
     <th>JavaScript</th>
     <th>PHP</th>
-    <th>Python</th>
   </tr>
   <tr align="center">
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"></td>
   </tr>
 </table>
 
