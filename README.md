@@ -9,10 +9,6 @@
 
 <h3 align="center">A student of a professional course in Management and Programming of Informatic Systems</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=guiki18&label=Profile%20views&color=0e75b6&style=flat" alt="guiki18" />
-</p>
-
 
 Hello, my name is Luis Freitas, but on online platforms I am Guiki.
 I like to program and listen to music during my free time, in addition, I am taking a professional computer course at school.
