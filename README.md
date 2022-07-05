@@ -151,7 +151,7 @@ I like to program and listen to music during my free time, in addition, I am tak
   </tr>
 </table>
 
-<br><br><br>
+<br><br>
 
 <h3 align="left">Github Rewards</h3>
 <table>
