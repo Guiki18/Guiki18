@@ -112,10 +112,12 @@ I like to program and listen to music during my free time, in addition, I am tak
 <table>
   <tr align="center">
     <th>Electron</th>
+    <th>Flutter</th>
   </tr>
 
   <tr align="center">
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40" alt="Electron"></td>
+    <td><img src="https://iconape.com/wp-content/png_logo_vector/flutter.png" width="40" height="40" alt="Flutter"></td>
   </tr>
 </table>
 
