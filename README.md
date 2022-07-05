@@ -104,7 +104,7 @@ I like to program and listen to music during my free time, in addition, I am tak
   </tr>
 
   <tr align="center">
-    <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/919/919837.png" width="40" height="40" alt="Bash"></td>
   </tr>
 </table>
 
